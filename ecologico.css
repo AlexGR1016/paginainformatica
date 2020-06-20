@@ -1,0 +1,141 @@
+*{
+    margin:0px;
+}
+
+body {
+      background:url(fondito%20verde.jpg);
+      
+      background-attachment:fixed;
+      background-position: center 0;
+}
+
+.ceb{
+    font-size: 30px;
+    color:white;
+    background:; 
+    width: 33%;
+    height: 85px;
+    position: relative;
+    top:-40px ;
+    bottom: ;
+    left:33%;
+    right: ;
+}
+
+.presenta{
+    font-size: 25px;
+    color:white;
+    background:black; 
+    width: 250px;
+    height: 85px;
+    position: relative;
+    top:10px ;
+    bottom: ;
+    left:550px;
+    right: ;
+}
+
+.mantenimiento{
+    font-size: 20px;
+    color:black;
+    background:#e0fb04; 
+    width: 270px;
+    height: 230px;
+    position: relative;
+    top:10px ;
+    bottom: ;
+    left:0px;
+    right: ;
+}
+
+.loco{
+    font-size:;
+    background:; 
+    color:;
+    width:500px;
+    height: 500px;
+    position: relative;
+    top:-240px ;
+    bottom: ;
+    left:300px;
+    right: ;
+}
+
+.reduccion{
+    font-size: 20px;
+    color:black;
+    background:#e0fb04; 
+    width: 250px;
+    height: 230px;
+    position: relative;
+    top:-80px ;
+    bottom: ;
+    left:0px;
+    right: ;
+}
+
+.criko{
+    font-size:;
+    background:; 
+    color:;
+    width:500px;
+    height: 500px;
+    position: relative;
+    top:-400px ;
+    bottom: ;
+    left:300px;
+    right: ;
+}
+
+
+.reforestacion{
+    font-size: 20px;
+    color:black;
+    background:#e0fb04; 
+    width: 250px;
+    height: 230px;
+    position: relative;
+    top:-300px ;
+    bottom: ;
+    left:0px;
+    right: ;
+}
+
+.mota{
+    font-size:;
+    background:; 
+    color:;
+    width:500px;
+    height: 500px;
+    position: relative;
+    top:-600px ;
+    bottom: ;
+    left:300px;
+    right: ;
+}
+
+.separacion{
+    font-size: 20px;
+    color:black;
+    background:#e0fb04; 
+    width: 250px;
+    height: 230px;
+    position: relative;
+    top:-440px ;
+    bottom: ;
+    left:0px;
+    right: ;
+}
+
+.lexito{
+    font-size:;
+    background:; 
+    color:;
+    width:500px;
+    height: 500px;
+    position: relative;
+    top:-800px ;
+    bottom: ;
+    left:300px;
+    right: ;
+}

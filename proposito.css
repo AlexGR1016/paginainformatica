@@ -1,0 +1,31 @@
+*{
+    margin:0px;
+}
+
+body {
+      background:url(fondito%20verde.jpg);
+      
+      background-attachment:fixed;
+      background-position: center 0;
+}
+
+.imagen {
+    position: relative;
+    top:30px ;
+    bottom: ;
+    left:0%;
+    right: ;
+}
+
+.texto{
+    font-size:25px;
+    color: white;
+    background:black; 
+    width: 500px;
+    height: 170px;
+    position: relative;
+    top:-130px ;
+    bottom: ;
+    left:430;
+    right: ;
+}

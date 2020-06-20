@@ -1,0 +1,110 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+
+body {
+      background:url(fondito%20verde.jpg);
+      
+      background-attachment:fixed;
+      background-position: center 0;
+}
+
+.proyecto{
+    font-size: 50px;
+    background:; 
+    color:white;
+    width:33%;
+    height: 125px;
+    position: relative;
+    top:00px ;
+    bottom: ;
+    left:33%;
+    right: ;
+}
+
+.proc{
+    font-size: 40px;
+    color:white;
+    background:; 
+    width: 33%;
+    height: 50px;
+    position: relative;
+    top:-125px ;
+    bottom: ;
+    left:0%;
+    right: ;
+}
+
+.ecologia{
+    font-size: 40px;
+    color:white;
+    background:; 
+    width: 33%;
+    height: 50px;
+    position: relative;
+    top:-175px ;
+    bottom: ;
+    left:66%;
+    right: ;
+}
+
+.logo{
+    font-size: 30px;
+    color:#ecf986;
+    background:; 
+    width: 33%;
+    height: 50px;
+    position: relative;
+    top:-175px ;
+    bottom: ;
+    left:100px;
+    right: ;
+}
+
+#header {
+    margin: auto;
+    width: 500px;
+    font-family:sans-serif;
+    position: relative;
+    top:-120px;
+}
+
+ul, ol {
+    list-style: none;
+}
+
+.nav li a {
+    background-color: black;
+    color:white;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: block;
+}
+
+.nav li a:hover{
+    background-color: #434343;
+}
+
+.nav > li {
+    float: left;
+}
+
+.nav li ul {
+    display:none ;
+    position: absolute;
+    min-width: 140px;
+}
+
+.nav li:hover > ul{
+    display: block;
+}
+
+.nav li ul li {
+    position: relative;
+}
+
+.nav li ul li ul {
+    right: -140px;
+    top:0px;
+}
